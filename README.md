@@ -1,4 +1,4 @@
-![GitHub]([https://img.shields.io/github/license//online-shopping-system-advanced](https://github.com/I-AmanRaj377/Event_Management)
+
 
 <a href="https://www.buymeacoffee.com/AmanRaj377HC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
